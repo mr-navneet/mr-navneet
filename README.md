@@ -6,4 +6,4 @@ I also enjoy learning in new technology field and explore them.
 ## Skills and Experience
 * ⚛ React-Js
 * 🖥️ HTML, CSS & JS
-* 📁 C++, MongoDB
+* 📁 MongoDB, Node.js, C++
